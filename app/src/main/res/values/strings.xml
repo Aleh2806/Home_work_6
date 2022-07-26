@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">Home_work_6</string>
+    <string name="notes">Список заметок</string>
+    <string name="my_notes">Мои заметки</string>
+    <string name="description">Описание заметки</string>
+    <string name="tittle_note">Название заметки</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tittle_notes">Список заметок</string>
+    <string name="go_back">Назад</string>
 </resources>
